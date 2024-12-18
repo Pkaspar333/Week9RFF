@@ -1,0 +1,14 @@
+C:\Users\Kaspar P\source\repos\Week9RFF\Week9RFF\bin\Debug\net8.0\Week9RFF.exe
+C:\Users\Kaspar P\source\repos\Week9RFF\Week9RFF\bin\Debug\net8.0\Week9RFF.deps.json
+C:\Users\Kaspar P\source\repos\Week9RFF\Week9RFF\bin\Debug\net8.0\Week9RFF.runtimeconfig.json
+C:\Users\Kaspar P\source\repos\Week9RFF\Week9RFF\bin\Debug\net8.0\Week9RFF.dll
+C:\Users\Kaspar P\source\repos\Week9RFF\Week9RFF\bin\Debug\net8.0\Week9RFF.pdb
+C:\Users\Kaspar P\source\repos\Week9RFF\Week9RFF\obj\Debug\net8.0\Week9RFF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kaspar P\source\repos\Week9RFF\Week9RFF\obj\Debug\net8.0\Week9RFF.AssemblyInfoInputs.cache
+C:\Users\Kaspar P\source\repos\Week9RFF\Week9RFF\obj\Debug\net8.0\Week9RFF.AssemblyInfo.cs
+C:\Users\Kaspar P\source\repos\Week9RFF\Week9RFF\obj\Debug\net8.0\Week9RFF.csproj.CoreCompileInputs.cache
+C:\Users\Kaspar P\source\repos\Week9RFF\Week9RFF\obj\Debug\net8.0\Week9RFF.dll
+C:\Users\Kaspar P\source\repos\Week9RFF\Week9RFF\obj\Debug\net8.0\refint\Week9RFF.dll
+C:\Users\Kaspar P\source\repos\Week9RFF\Week9RFF\obj\Debug\net8.0\Week9RFF.pdb
+C:\Users\Kaspar P\source\repos\Week9RFF\Week9RFF\obj\Debug\net8.0\Week9RFF.genruntimeconfig.cache
+C:\Users\Kaspar P\source\repos\Week9RFF\Week9RFF\obj\Debug\net8.0\ref\Week9RFF.dll
